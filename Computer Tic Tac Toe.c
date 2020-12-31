@@ -4,6 +4,7 @@
 #include<string.h>
 #include<conio.h>
 #include<time.h>
+
 char s[3][3];
 int x,y;
 void Display()
