@@ -1,3 +1,5 @@
+//Copyright (c) 2021
+
 #include<stdio.h>
 #include<windows.h>
 #include<stdlib.h>
